@@ -1,0 +1,7 @@
+info:
+  profile: prod
+  
+name: huohan-prod
+words: hello,world
+
+food: '{cipher}2c76fe51c9f426b4f86ca08ba7b47654fdb81515108694c17bee2fffdc867766'
