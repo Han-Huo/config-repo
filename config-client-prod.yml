@@ -1,5 +1,5 @@
 info:
-  profile: prod
+  profile: config-client-prod
   
 name: huohan-prod
 words: hello,world
